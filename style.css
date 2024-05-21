@@ -41,7 +41,7 @@ header {
 }
 
 .navigation a:hover,
-navigation a.active {
+.navigation a.active {
     background: #359381;
     color: #fff;
 }
