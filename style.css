@@ -53,3 +53,9 @@ header {
     justify-content: center;
     align-itmes: center;
 }
+
+#text {
+    postion: absolute;
+    font-size: 3em;
+    color: #333;
+}
