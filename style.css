@@ -45,3 +45,11 @@ header {
     background: #359381;
     color: #fff;
 }
+
+.parallax {
+    postion: relative;
+    top: 50vh;
+    display: flex;
+    justify-content: center;
+    align-itmes: center;
+}
