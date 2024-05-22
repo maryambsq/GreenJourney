@@ -20,13 +20,14 @@ header {
     width: 100%;
     padding: 30px 100px;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     z-index: 100;
 }
 
 .logo {
     font-size: 1.75em;
+    margin-right: 90px;
     color:#359381;
     pointer-events: none;
 }
@@ -57,5 +58,14 @@ header {
 #text {
     postion: absolute;
     font-size: 3em;
-    color: #333;
+    color: #fff;
+    text-shadow: 2px, 2px, 4px, rgba(0, 0, 0, 0.2);
+}
+
+.parallax img {
+    postition: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    pointer-events: none;
 }
