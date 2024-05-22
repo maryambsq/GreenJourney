@@ -48,7 +48,7 @@ header {
 
 .parallax {
     postion: relative;
-    top: 50vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-itmes: center;
