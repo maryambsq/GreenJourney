@@ -24,9 +24,5 @@ GreenJourney is an immersive and visually captivating website designed to provid
 To experience GreenJourney, simply open the `index.html` file in a web browser. As you scroll down the page, you will see various elements move at different speeds, creating a parallax effect. This effect is most prominent in the "Glide Through Paradise" section, where hills, trees, and other elements shift to simulate motion and depth.
 
 ## Contributing
-Contributions to GreenJourney are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes. Whether it's improving the design, adding new features, or fixing bugs, your contributions are greatly appreciated.
-
----
-
-Contributions to Green Journey are welcome! Feel free to customize and expand on this README as needed for your enhancements. 🌿🗺️✨
-
+Contributions to GreenJourney are welcome! Whether it's improving the design, adding new features, or fixing bugs, your contributions are greatly appreciated. 🌿🗺️✨
+ 
