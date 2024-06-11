@@ -28,5 +28,5 @@ Contributions to GreenJourney are welcome! If you'd like to contribute to the pr
 
 ---
 
-Feel free to customize and expand upon this README as needed for your project. Happy coding! 🌿🗺️✨
+Feel free to customize and expand upon this README as needed for your project. 🌿🗺️✨
 
