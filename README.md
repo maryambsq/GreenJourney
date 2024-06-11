@@ -26,7 +26,7 @@ To experience GreenJourney, simply open the `index.html` file in a web browser. 
 ## Contributing
 Contributions to GreenJourney are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes. Whether it's improving the design, adding new features, or fixing bugs, your contributions are greatly appreciated.
 
--
+--
 
 Contributions to Green Journey are welcome! Feel free to customize and expand upon this README as needed for your enhancements. 🌿🗺️✨
 
