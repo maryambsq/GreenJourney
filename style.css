@@ -17,6 +17,9 @@ body::-webkit-scrollbar {
     width: 0.25em;
 }
 
+body::-webkit-scrollbar-track {
+    background: #003329;   
+}
 
 header {
     position: absolute;
