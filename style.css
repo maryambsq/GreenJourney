@@ -21,6 +21,10 @@ body::-webkit-scrollbar-track {
     background: #003329;   
 }
 
+body::-webkit-scrollbar-thumb {
+    background: #359381;
+}
+
 header {
     position: absolute;
     top: 0;
