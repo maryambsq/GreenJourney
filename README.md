@@ -8,7 +8,7 @@
 - [Contributing](#contributing)
 
 ## Introduction
-GreenJourney is an immersive and visually captivating website designed to provide users with a virtual tour through picturesque landscapes. This project leverages parallax scrolling effects to create a dynamic and engaging user experience, simulating a journey through serene hills and lush greenery. The website features a sleek design with smooth animations, inviting users to explore and relax as they glide through a digital paradise.
+GreenJourney is an immersive and visually captivating tourism agency website designed to provide users with aesthtically pleasing browsing, and potentially memorable and one-of-a-kind tourism experience. This project leverages parallax scrolling effects to create a dynamic and engaging user experience, simulating a journey through immersive experience selection. The website features a sleek design with smooth animations, inviting users to explore and relax as they glide through a digital tourism paradise.
 
 ## Technologies Used
 - **HTML**: Provides the structure of the website.
