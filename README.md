@@ -4,7 +4,6 @@
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Introduction
