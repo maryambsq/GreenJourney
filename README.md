@@ -20,9 +20,6 @@ GreenJourney is an immersive and visually captivating tourism agency website des
 - **Responsive Navigation**: A responsive navigation bar allows easy access to different sections of the website, including Home, About, Tour, and Contact.
 - **Dynamic Text and Images**: Elements such as text and images move dynamically based on the user's scroll position, adding to the immersive experience.
 
-## Usage
-To experience GreenJourney, simply open the `index.html` file in a web browser. As you scroll down the page, you will see various elements move at different speeds, creating a parallax effect. 
-
 ## Contributing
 Contributions to GreenJourney are welcome! Whether it's improving the design, adding new features, or fixing bugs, your contributions are greatly appreciated. 🌿🗺️✨
  
