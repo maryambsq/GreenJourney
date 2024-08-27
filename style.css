@@ -85,18 +85,39 @@ header {
 .sec {
     postion: relative;
     background: #003329;
-    padding: 100px;
+    padding: 3em 6em 1em 6em;
 }
 
 .sec h2 {
-    font-size: 2em;
+    font-size: 1.75em;
     color: #fff;
-    margin-bottom: 10px;
+    padding-top: 2em;
 }
 
 .sec p {
+    margin-top: 3em;
     font-size: 1em;
     color: #fff;
     font-weight: 300;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+    margin-inline: 1.5rem;
+    padding-block: 5rem;
+}
+
+.card_container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 3.5rem;
+    column-gap: 2.85rem;
+}
+
+.card_img {
+    height: 230px;
+    width: 300px;
+    border-radius: 1.5rem;
 }
 
