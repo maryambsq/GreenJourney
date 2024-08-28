@@ -145,6 +145,7 @@ header {
     display: block;
     margin-bottom: 0.2rem;
     color: #f9f9f9;
+    pointer-events: none;
 }
 
 .card_title {
@@ -152,6 +153,7 @@ header {
     color: #fff;
     font-weight: 800;
     margin-bottom: 0.75rem;
+    pointer-events: none;
 }
 
 .card_button {
