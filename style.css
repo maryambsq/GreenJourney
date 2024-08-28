@@ -165,7 +165,18 @@ header {
 }
 
 /* ANIMATIONS */
-/*-- still pending --*/
+
+.card_article:hover .card_data {
+    animation: show-data 1s forwards;
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+
+@keyframes show-data {
+    50% {
+        transform: translateY(-10rem);
+    }
+}
 
 footer {
     background-color: #003329;
