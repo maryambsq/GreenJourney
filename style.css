@@ -180,6 +180,13 @@ header {
     }
 }
 
+.footer {
+    background-color: #359381;
+    padding-right: 6rem;
+    padding-left: 4rem;
+
+}
+
 .contact_container {
     display: grid;
     align-content: center;
@@ -190,12 +197,14 @@ header {
 }
 
 .intro, .socials, .newsletter {
+    padding-top: 2rem;
     padding-right: 6rem;
     padding-left: 4rem;
 }
 
 footer {
     background-color: #003329;
-    padding: 6em;
+    padding: 0.7em 6em 2em 50em;
     color: #fff;
+    background-color: #359381;
 }
