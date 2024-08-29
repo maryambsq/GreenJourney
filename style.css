@@ -180,6 +180,20 @@ header {
     }
 }
 
+.contact_container {
+    display: grid;
+    align-content: center;
+    grid-template-columns: repeat(3, 0fr);
+    row-gap: 0;
+    column-gap: 0;
+    color:#f9f9f9;
+}
+
+.intro, .socials, .newsletter {
+    padding-right: 6rem;
+    padding-left: 4rem;
+}
+
 footer {
     background-color: #003329;
     padding: 6em;
