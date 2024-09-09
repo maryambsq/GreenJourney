@@ -1,4 +1,4 @@
-# GreenJourney - (under construction)
+# GreenJourney
 
 ## Table of Contents
 - [Introduction](#introduction)
